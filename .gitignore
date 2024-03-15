@@ -1,2 +1,4 @@
 *.lock
-day*
+katas/day*
+katas/__pycache__*
+.pytest_cache
